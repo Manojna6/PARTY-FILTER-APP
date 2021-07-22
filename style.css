@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: #1E152A;
+    color: #5AB1BB;
+}
+canvas
+{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+button{
+    padding:10px;
+    background-color: #A5C882;
+    border-radius: 50px;
+}
+h3{
+    color:#F7DD72;
+}
